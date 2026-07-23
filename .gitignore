@@ -181,3 +181,6 @@ v3/@claude-flow/cli/plugins/
 # Runtime proven-config adoption state (per-install, not source)
 .claude/proven-config.json
 .claude/.proven-config-version
+
+# Local Remotion test project (not part of ruflo)
+/remotion-project-test/
