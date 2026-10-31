@@ -184,3 +184,7 @@ v3/@claude-flow/cli/plugins/
 
 # Local Remotion test project (not part of ruflo)
 /remotion-project-test/
+
+# Local scratch research notes/reports (not part of ruflo)
+/research_notes/
+/reports/
